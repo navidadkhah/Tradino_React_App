@@ -1,0 +1,20 @@
+.mb-line-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  column-gap: 15px;
+}
+
+.mb-line-one,
+.mb-line-three {
+  width: 155px;
+  height: 0px;
+  border: 2px solid #93959848;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.mb-line-two {
+  margin-top: 20px;
+  color: #939598ad;
+}

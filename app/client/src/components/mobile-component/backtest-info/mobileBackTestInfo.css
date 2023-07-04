@@ -1,0 +1,21 @@
+.mb-moreBacktestInfo-backtestInfo-items {
+  width: 42%;
+  height: 29px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.mb-moreBacktestInfo-backtestInfo-items .space-between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+}

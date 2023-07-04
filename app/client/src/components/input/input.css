@@ -1,0 +1,55 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.label {
+    padding: 0px 0px 4px 4px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.input {
+    border: none;
+    width: 350px;
+    height: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+.wrong-input {
+    border: 1px solid red;
+    width: 350px;
+    height: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+.input-error {
+    font-size: 7.5px;
+    color: red;
+    padding: 4px 0 0 5px;
+}
+
+.form input {
+    outline: none;
+}
+
+@media screen and (max-width: 655px) {
+    .label {
+        font-size: 13px;
+    }
+
+    .input, .wrong-input {
+        width: 70vw;
+    }
+    .input-error{
+        font-size:12px;
+    }
+
+}

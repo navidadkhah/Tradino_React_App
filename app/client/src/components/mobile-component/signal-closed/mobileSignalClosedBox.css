@@ -1,0 +1,164 @@
+.mb-signalBox-closedSignals-box {
+  width: 85vw;
+  height: max-content;
+  left: 26px;
+  top: 910px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.mb-signalBox-closedSignals-box .first-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+
+.mb-buyStrategy-first-row-img {
+  position: relative;
+  align-self: flex-start;
+  justify-self: flex-start;
+  width: 40px;
+  height: 40px;
+  margin-right: 10%;
+}
+
+.mb-buyStrategy-img-big {
+  position: absolute;
+  top: 10px;
+  left: 40%;
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  z-index: 2;
+}
+
+.mb-buyStrategy-img-small {
+  position: absolute;
+  top: 35px;
+  left: 46%;
+  width: 60px;
+  height: 30px;
+  border-radius: 30px;
+  border-radius: 1px solid grey;
+}
+
+.mb-more-icon-signalbox {
+  width: 15px;
+  align-self: center;
+  margin: 10px 0;
+}
+
+.mb-signalBox-column,
+.mb-signalBox-column2 {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.mb-signalBox-column2 {
+  width: 50%;
+  row-gap: 1vh;
+  justify-content: space-between;
+}
+
+.mb-signalBox-column2 pre {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.mb-signalBox-column .name {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #313D4C;
+  width: 100px;
+  margin-left: 10px;
+}
+
+.mb-signalBox-column .date {
+  width: 100px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 11px;
+  /* identical to box height */
+  letter-spacing: 0.02em;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.mb-signalBox-pips {
+  width: 115px;
+  height: 27px;
+  background: linear-gradient(93.97deg, #6ffed1ba 0%, #94FFA6 102.18%);
+  border-radius: 3px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+  letter-spacing: 0.02em;
+  color: #313D4C;
+  padding: 5px;
+  margin-right: 20px;
+}
+
+.mb-signalBox-closedSignals-box .second-row {
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  /* identical to box height */
+  width: 100%;
+  color: #000000;
+}
+
+.second-row .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mb-signalbox-profit {
+  width: 40%;
+  border-style: solid;
+  border-color: rgb(198, 194, 194);
+  border-width: 1px 1px 1px 0;
+  padding: 10px 15px;
+}
+
+.mb-signalbox-date {
+  width: 60%;
+  border-style: solid;
+  border-color: rgb(198, 197, 197);
+  border-width: 1px 0 1px 1px;
+  padding:20px 10px;
+  font-size: 14px;
+}
+
+.mb-signalbox-chartbox {
+  width: 75vw;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  align-self: center;
+}

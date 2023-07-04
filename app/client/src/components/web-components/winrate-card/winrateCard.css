@@ -1,0 +1,12 @@
+.winrate-card {
+    width: 80%;
+    height: 100px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 25px auto;
+}
+
+.winrate-card span {
+    margin: 0 25px;
+}

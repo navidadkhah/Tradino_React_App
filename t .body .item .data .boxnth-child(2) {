@@ -1,0 +1,35 @@
+[33mcommit 79478080d659883c619234663d8579d5f6c5c741[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aXlireza <alireza.ataee01@gmail.com>
+Date:   Sun Aug 8 10:40:07 2021 +0430
+
+    modifying the facebook login icon
+
+[33mcommit ce679b228a8a582d15befbeeddb239334c4e08ba[m
+Author: aXlireza <alireza.ataee01@gmail.com>
+Date:   Sun Aug 8 10:39:18 2021 +0430
+
+    Modifying the register to logout before registration
+
+[33mcommit bf65db125b5cf87068c05bc742e6cb8859eb3a1a[m
+Author: aXlireza <alireza.ataee01@gmail.com>
+Date:   Sun Aug 8 10:38:06 2021 +0430
+
+    modifying the googlelogin req
+
+[33mcommit 283fd52bf97d5312a71306d5f9ad65bcb3eb2602[m
+Author: aXlireza <alireza.ataee01@gmail.com>
+Date:   Tue Aug 3 10:30:36 2021 +0430
+
+    Updating the Readme file and adding the structure
+
+[33mcommit 4eeb7b4d0fca39610361251ddb1c72f59f31ab12[m
+Author: aXlireza <alireza.ataee01@gmail.com>
+Date:   Tue Aug 3 09:47:45 2021 +0430
+
+    first sprint done(the google/facebook auth missing)
+
+[33mcommit 223972e623d2cc83e48c77243f6cf1daa0345467[m[33m ([m[1;34mgrafted[m[33m)[m
+Author: aXlireza <alireza.ataee01@gmail.com>
+Date:   Mon Jul 26 18:39:26 2021 +0430
+
+    Cleaning the example codes from boiler plate + setting up the structure of the project + developing the sign in/up pages

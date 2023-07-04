@@ -1,0 +1,27 @@
+.rate-width {
+    width: 400px;
+}
+
+.rating-first-row {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 15px;
+}
+
+.rating-goodRate {
+    background-color: green;
+    border-radius: 5px 0 0 5px;
+}
+
+.rating-badRate {
+    background-color: red;
+    border-radius: 0 5px 5px 0;
+}
+
+.rating-label {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 13px;
+}
