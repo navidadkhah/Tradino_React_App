@@ -1,7 +1,7 @@
 ## Tradino_React_App
-This is a website built with reactjs.
-It has authentication pages such as signup, sign-in, forgot password, and so on.
-We used the chartjs package for showing our chart related stocks, forex, and cryptos.
+This is a website built with reactjs.<br />
+It has authentication pages such as signup, sign-in, forgot password, and so on.<br />
+We used the chartjs package for showing our chart related stocks, forex, and cryptos.<br />
 
 
 
